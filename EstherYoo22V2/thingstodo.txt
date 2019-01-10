@@ -1,0 +1,19 @@
+- sorting & storing highscores (x)
+- game keeps track of scores (x)
+- errortrap (x)
+- create backgrounds (menu, scores, instructions, goodbye)
+- little things (constant)
+- find & implement better hangman drawing
+- KISS
+- programming style
+- errortrap names user can enter
+- splashscreen
+
+backgrounds to create:
+- menu
+- scores
+- instructions
+- goodbye
+- traffic light game load
+- splashscreen
+- finished 100 words screen

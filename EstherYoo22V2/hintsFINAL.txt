@@ -1,0 +1,100 @@
+A threadlike strand of DNA in the nucleus of a cell that carries the genes in a linear order.
+The process by which cells or parts of an organism change during development to serve a specific function.
+The exterior protective or supporting structure of many animals, including bony parts such as nails or scales or hoofs.
+The perception of body position and movement and muscular tensions, etc.
+Cell division that produces reproductive cells in sexually reproducing organisms.
+Diffusion of molecules through a semipermeable membrane from a place of higher concentration to a place of lower concentration until the concentration on both sides are equal.
+Synthesis of compounds with the aid of radiant energy (especially in plants).
+The relation between two different species of organisms that are interdependent.
+Practice of classifying plants and animals according to their presumed natural relationships.
+A tiny cavity filled with fluid in the cytoplasm of a cell.
+Relating to or containing an alkali.
+A substance that initiates or accelerates a chemical reaction without itself being affected.
+A nuclear reaction in which a massive nucleus splits into smaller nuclei with the simultaneous release of energy.
+An organic compound containing only carbon and hydrogen.
+One of two or more atoms with the same atomic number but with different numbers of neutrons.
+The simplest structural unit of an element or compound.
+A part of the cell containing DNA and RNA and responsible for growth and reproduction.
+A body having finite mass and internal structure but negligible dimensions.
+The phenomenon of forming chemical bonds.
+Resistance of a liquid to shear forces (and hence to flow).
+The act of accelerating.
+The maximum displacement of a periodic wave.
+A logarithmic unit of sound intensity.
+The tendency of a body to return to its original shape after it has been stretched or compressed.
+The number of occurrences within a given time period.
+The tendency of a body to maintain its state of rest or uniform motion unless acted upon by an external force.
+Impelling or impelled forward.
+Any mechanical force that tends to retard or oppose motion.
+A variable quantity of or relating to a directionless magnitude (such as mass or speed etc.) that is completely specified by its magnitude.
+The speed of something in a given direction.
+A precise rule (or set of rules) specifying how to solve some problem.
+RAM memory that is set aside as a specialized buffer storage that is continually updated.
+Use of a computer program to translate source code written in a particular programming language into computer-readable machine code that can be executed.
+A unit of information equal to 1024 mebibytes or 2^30 (1,073,741,824) bytes.
+The mechanical, magnetic, electronic, and electrical components making up a computer system.
+A printed circuit board containing the principal components of a computer or other device, with connectors into which other circuit boards can be slotted.
+Anything that comes out of a computer.
+Manipulating data within the computer.
+A person who designs and writes and tests computer programs.
+The set of rules that defines the combinations of symbols that are considered to be a correctly structured document or fragment in a given language.
+The mathematics of generalized arithmetical operations.
+The procedure of calculating.
+A quantity measuring the extent of interdependence of variable quantities.
+The divisor of a fraction.
+A mathematical notation indicating the number of times a quantity is multiplied by itself.
+Bounded or limited in magnitude or spatial or temporal extent.
+The side of a right triangle opposite the right angle.
+A complex number that can be written as a real number multiplied by the imaginary unit i, which is defined by its property i2 = -1.
+The exponent required to produce a given number.
+The likelihood of something happening in the future.
+A person who actively opposes or is hostile to someone or something.
+The decisive moment in a novel or play.
+The final resolution of the main complication of a literary or dramatic work.
+Extravagant exaggeration.
+Incongruity between what might be expected and what actually occurs.
+A figure of speech in which an expression is used to refer to something that it does not literally denote in order to suggest a similarity.
+Using words that imitate the sound they denote.
+Repetition of similar or identical sounds.
+A (usually long) dramatic speech intended to give the illusion of unspoken reflections.
+A fixed number of lines of verse forming a unit of a poem.
+Gradually increasing in tempo.
+Elaborate and extensive ornamentation in decorative art and architecture that flourished in Europe in the 17th century.
+A wind instrument that consists of a brass tube (usually of variable length) that is blown by means of a cup-shaped or funnel-shaped mouthpiece.
+A recurrent rhythmical series.
+Gradually decreasing in volume.
+A group of musicians playing or singing together.
+A percussion instrument consisting of a set of graduated metal bars mounted on a frame and played with small hammers.
+A long and complex sonata for a symphony orchestra.
+A shallow drum with a single drumhead and with metallic disks in the sides.
+A pulsating effect in an instrumental or vocal tone produced by slight and rapid variations in pitch.
+A concept or idea not associated with any specific instance.
+Describes images derived from biological or natural forms.
+Beautiful handwriting.
+A paste-up made by sticking together pieces of paper or photographs to form an artistic image.
+The birth process of an artistic idea, from the initial creative impulse through aesthetic refinement, problem-solving, and visualization/realization.
+The creation of artistic pictures or diagrams.
+A characteristic of some art, generally since the mid-19th century, leaning toward the expression of emotion over objective description.
+Painting entirely in monochrome (tones of one color), in a series of grays.
+A style of painting which uses an analysis of tone (value) and color of its subject, resulting in a representation of the appearance of forms or landscapes.
+A two-dimensional combining of photographs or parts of photographs into an image on paper or other material.
+Grant a pardon to (a group of people).
+A political theory favoring collectivism in a classless society.
+The political orientation of those who favor government by the people or by their elected representatives.
+The action of changing from colonial to independent status.
+The social system that developed in Europe in the 8th century.
+The doctrine that your national culture and interests are superior to any other.
+A form of government whose head of state is not a monarch.
+A doctrine that rejects religion and religious considerations.
+An economic system based on state ownership of capital.
+Absolute control by the state or a governing branch of a highly centralized institution.
+Elevation, especially above sea level or above the earth's surface.
+The science or practice of drawing maps.
+Navigational instrument for finding directions.
+An outline, especially one representing or bounding the shape or form of something.
+Distance of something above a reference point (such as sea level).
+An imaginary line around the Earth forming the great circle that is equidistant from the north and south poles.
+Half of the terrestrial globe.
+The difference in elevation (or height) between parts of the Earth's surface.
+Precise, detailed study of the surface features of a region.
+Either of two corresponding parallels of latitude on the terrestrial globe, one about 23.5 degrees N, and the other about 23.5 degrees S of the equator, being the boundaries of the Torrid Zone.

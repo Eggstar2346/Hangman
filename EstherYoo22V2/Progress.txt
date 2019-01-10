@@ -1,0 +1,28 @@
+Level 1:
+Show them the topic (background?)
+Level 2:
+Mystery background
+
+- bio - green / *
+- chem - / *
+- physics - red / *
+- comp sci - blue / *
+- math - white / *
+- english - blue / *
+- music - black / *
+- visual art - pink /
+- history - brown /
+- geography - green /
+- mystery / *
+
+17.01*13.26
+
+/ INTRO
+* Game
+
+Processing1 - entire game processing
+Processing2 - blotting out letters (used) processing
+Processing3 - drawing appropriate number of letter spaces (15 is max) and drawing letters using drawString
+Drawman - entire hangman drawn
+FinalProjectV1 - testing, random numbers, (currently) master file
+numOfLetters - was used to find the length of the longest word

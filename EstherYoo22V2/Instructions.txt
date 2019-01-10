@@ -1,0 +1,25 @@
+Hangman Program Header
+
+
+To play the game, select the first option in the main menu (you can go back to  the main menu right now by pressing backspace). Select an option by pressing thecorresponding number on your keyboard (press '1' to play the game, press '2'to  go to instructions, etc). To revisit the instructions, select the second option in the menu. To view the highscores for this program, select the third   option in the menu. To exit the program, select the fourth option in the menu.
+
+If you decide to play the game, you will be redirected to a screen where you    will be prompted to choose a level. Hints for the correct answer can be viewed  at Level 1, but scores will not be recorded for the Highscores board. In Level  2, there are no hints, but if you score high enough your score will be recorded for the Highscores board. Select a level by pressing either '1' for Level 1, or '2' for Level 2.
+If you decide to play in Level 1, an introduction screen will come up for 2     seconds. This introduction screen will inform you which school subject the      answer falls into.
+In Level 1, you can enter a question mark ('?') to view hints. A window         containing the hint will appear until you click "OK" or you press the spacebar. Hints can be viewed at any time and as many times as needed.
+If you decide to play in Level 2, an introduction screen will come up for 2     seconds but it will not inform you on the answer. In Level 2, entering the      question mark will only result in an error message.
+When the game is over, you will be redirected to different screens depending on whether you won or lost. Press any key to return to the main menu.
+
+Hangman is a quick, easy, and educational game where the player tries to guess  the letters of a word until the word is fully solved.
+Failed attempts are recorded by drawing a stick figure hanging on a gallows,    line by line. The player loses if the drawing is complete before the word is    solved. In this program, the player is given 7 chances per game.
+Take guesses by entering a single letter (no special characters except the '?'  in Level 1 for hints, no numbers). All guesses, regardless of whether they are  right or wrong, will be blotted out from a list of available letters at the top of the screen that can be viewed at anytime.
+If the player correctly guesses all letters of the word before the drawing is   complete, the player has won. In this program, players who win in Level 2 have  the chance to make the Highscores board.
+
+If you played in Level 2 and won, you will be able to see your score and will beprompted for a username. However, this does not guarantee that you made the     Highscores board. Highscores can be viewed by pressing '3' in the main menu.
+If you decide to view the Highscores, you will be redirected to a screen where  the highest scores attained by past players is recorded. Usernames are recorded on the left, their scores are recorded across them to the right. The highest    score is recorded at the top, and the rest are recorded in descending order of  scores.
+Scores are decided as follows: All players who won a Level 2 game is awarded    2000 points. Then, 100 points are deducted for each Hangman limb that was drawn,and 50 points are deducted every time the player re-entered a letter they had   already guessed.
+Highscores can be reset by manually deleting the file "Highscores.txt". This    will reset Highscores to their default values: "---------------" for usernames, and 0 for scores.
+
+If you decide to exit the program, it will redirect you to a screen where it    will first thank you for playing the game, then show the name of the programmersinvolved in the making of this program. Pressing any key will close the program window.
+
+This game is limited to a word bank of 100 non-repeating words. If this maximum is reached in a single setting, the game will automatically take you to a       different screen and close the game window after 5 seconds.
+There is a special cheat option available for Level 2. Press the exclamation    mark ('!') at any time to view the cheat.

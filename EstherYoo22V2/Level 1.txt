@@ -1,0 +1,130 @@
+astronomy
+atom
+beaker
+biochemistry
+biology
+botany
+chemistry
+climate
+electricity
+element
+energy
+evolution
+experiment
+flask
+fossil
+genetics
+geology
+graduated cylinder
+gravity
+hypothesis
+immunology
+laboratory
+magnetism
+mass
+matter
+measure
+meteorology
+microbiology
+microscope
+mineral
+molecule
+observe
+observatory
+organism
+particle
+petri dish
+physics
+pipette
+quantum mechanics
+research
+scale
+scientist
+telescope
+temperature
+test tube
+theory
+thermometer
+tissue
+variable
+volume
+
+algorithm
+application
+array
+bandwidth
+binary
+buffer
+bug
+bus
+byte
+cache
+compile
+configure
+central processing unit
+data
+database
+debug
+desktop
+development
+domain name system
+digital versatile disc
+firewall
+firmware
+flash drive
+floppy disk
+gigabyte
+graphics
+hacker
+hardware
+integer
+interface
+Internet
+IP address
+Java
+malware
+memory
+modem
+monitor
+motherboard
+mouse
+multimedia
+network
+open source
+operating system
+output
+phishing
+piracy
+platform
+privacy
+process
+program
+programmer
+random access memory
+reboot
+resolution
+read only memory
+router
+runtime
+save
+scan
+scanner
+script
+search engine
+security
+server
+software
+spreadsheet
+storage
+spyware
+syntax
+terabyte
+thread
+user interface
+virus
+web host
+website
+window
+wireless
+workstation
+World Wide Web
